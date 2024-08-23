@@ -23,7 +23,11 @@ This Python script provides a menu-driven interface for automating various AWS c
    ```bash
    git clone 
    cd aws-cloud-automation
-  ## Install the required Python packages:
+## Install the required Python packages:
   ```bash
     pip install boto3
     python aws_automation.py
+## Follow the on-screen menu to perform AWS tasks.
+
+Notes
+Ensure that you have the necessary AWS permissions for the tasks.
